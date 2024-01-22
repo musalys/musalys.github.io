@@ -44,12 +44,12 @@ comments:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   giscus:
-    repo_id              : #
-    category_name        : #
-    category_id          : #
-    discussion_term      : #
-    reactions_enabled    : #
-    theme                : #
+    repo_id              : "R_kgDOLHkTpw"
+    category_name        : "Announcements"
+    category_id          : "DIC_kwDOLHkTp84CcmFp"
+    discussion_term      : "pathname"
+    reactions_enabled    : "1"
+    theme                : "preferred_color_scheme"
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
